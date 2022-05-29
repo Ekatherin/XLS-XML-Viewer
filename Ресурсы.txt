@@ -1,0 +1,6 @@
+https://metanit.com/sharp/wpf/15.4.php?
+https://www.e-iceblue.com/Tutorials/Spire.XLS/Spire.XLS-Program-Guide/Conversion/How-to-convert-Excel-to-XPS-in-C.html
+https://www.codeproject.com/Questions/765822/how-to-open-excel-file-in-document-viewer-in-WPF
+
+для XML
+https://www.codeproject.com/Articles/71069/A-Simple-WPF-XML-Document-Viewer-Control
